@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "49a598e0885b41a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4acd49a0062163f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hello-world.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "984aac47ee3a6aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "8973a6b584062e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb0cbb3cd686d58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "18d63d63ec1e68e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ac4c74e7a2b1475",
+    "type": "split",
+    "children": [
+      {
+        "id": "f251cd6f70a0ed4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d9878ac1ae9c0cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hello-world.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4acd49a0062163f",
+  "lastOpenFiles": [
+    "hello-world.md"
+  ]
+}
