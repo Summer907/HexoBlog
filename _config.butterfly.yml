@@ -10,8 +10,10 @@ menu:
   归档: /archives/ || fas fa-archive
   分类: /categories/ || fa-fw fas fa-folder-open
  娱乐|| fa-fw fas fa-compass:
-  图书/电影: /book-movie/ || fa-fw fas fa-video
-  自言自语: /artitalk/ || fa-solid fa-comment-dots
+  图书: /books/ || fa-solid fa-books
+  电影: /movies/ || fa-solid fa-film
+  游戏: /games/ || fa-solid fa-gamepad-modern
+ 自言自语: /artitalk/ || fa-solid fa-comment-dots
  友链: /link/ || fas fa-heart
  关于: /about/ || fa fa-info-circle
 

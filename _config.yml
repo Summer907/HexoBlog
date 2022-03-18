@@ -119,34 +119,34 @@ search:
   format: html
   limit: 10000
 
-#douban:
-#  user: 201162661
-#  builtin: true
-#  book:
-#    title: 'This is my book title'
-#    quote: 'This is my book quote'
-#    meta: true
-#    comments: true
-#    top_img: https://cccccc.png
-#    aside: true
-#    path: books
-#    limit:
-#  movie:
-#    title: 'This is my movie title'
-#    quote: 'This is my movie quote'
-#    meta: true
-#    comments: true
-#    top_img: https://cccccc.png
-#    aside: true
-#    path: movies
-#    limit:
-#  game:
-#    title: 'This is my game title'
-#    quote: 'This is my game quote'
-#    meta: true
-#    comments: true
-#    top_img: https://cccccc.png
-#    aside: true
-#    path: games
-#    limit:
-#  timeout: 10000
+douban:
+  user: 201162661
+  builtin: true
+  book:
+    title: '万文集舍'
+    quote: '自己挑吧，看上哪本在这边结账。'
+    meta: true
+    comments: true
+    top_img: https://cccccc.png
+    aside: true
+    path: books
+    limit:
+  movie:
+    title: '雷达影院'
+    quote: '能力越大，责任越大。'
+    meta: true
+    comments: true
+    top_img: https://cccccc.png
+    aside: true
+    path: movies
+    limit:
+  game:
+    title: '记得起名'
+    quote: '可叹，落叶飘零。'
+    meta: true
+    comments: true
+    top_img: https://cccccc.png
+    aside: true
+    path: games
+    limit:
+  timeout: 10000
